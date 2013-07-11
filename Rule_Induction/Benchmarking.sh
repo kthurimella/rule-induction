@@ -1,0 +1,9 @@
+cd ~/Benchmarking/OTU_50_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_55_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_60_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_65_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_70_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_75_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_80_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_85_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
+cd ~/Benchmarking/OTU_90_synthetic/; for i in $(ls *.biom); do python ~/Benchmarking/scripts/print_rules.py -i $i -s 0.9 -c 0.9; done
